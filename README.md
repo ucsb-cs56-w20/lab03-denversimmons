@@ -1,4 +1,6 @@
-# Starter Code for cs56 lab03, f19
+lab03-denversimmons
+
+repo: https://github.com/ucsb-cs56-w20/lab03-denversimmons
 
 * <https://ucsb-cs56.github.io/f19/lab/lab03/>
 
